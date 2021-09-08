@@ -3,7 +3,7 @@
 - 🔭 I'm currently looking for a job
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: rodrigoleonardo81@gmail.com
-- ⚡ Fun fact: I was supposed to have started with the schedule at 14 not at 25 😂
+- ⚡ Fun fact: I was supposed to have started with the schedule at 14 not at 24 😂
 
 <div>
   <a href="https://github.com/rodrigol01">
