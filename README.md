@@ -3,7 +3,7 @@
 - 🔭 I'm currently looking for a job
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: rodrigoleonardo81@gmail.com
-- ⚡ Fun fact: I was supposed to have started with the schedule at 14 not at 24 😂
+- ⚡ Fun fact: I was supposed to have started my studies at 14 not at 24 😂
 
 <div>
   <a href="https://github.com/rodrigol01">
@@ -16,7 +16,8 @@
   <img align="center" alt="Rod-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rod-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rod-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Rod-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+   <img align="center" alt="Rod-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
 </div>
 <div>
   <br>
