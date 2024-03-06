@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently looking for a job
-- 🌱 I’m currently learning C#
+- 🔭 I'm a full stack developer that currently works with Angular and .NET Core
 - 📫 How to reach me: rodrigoleonardo81@gmail.com
 - ⚡ Fun fact: I was supposed to have started my studies at 14 not at 24 😂
 
